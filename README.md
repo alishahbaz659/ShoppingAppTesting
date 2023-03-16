@@ -22,9 +22,6 @@ To get started with the project, follow these steps:
 <h2>Testing</h2>
 The project includes the following types of tests:
 
-<h3>Room Database Testing</h3>
-The RoomDatabaseTest class contains unit tests for testing the Room database implementation. These tests ensure that the database is properly set up and that data is stored and retrieved correctly.
-
 <h3>Retrofit Network Setup Testing</h3>
 The RetrofitNetworkTest class contains unit tests for testing the Retrofit network setup. These tests ensure that the API is properly set up and that data is retrieved correctly from the server.
 
